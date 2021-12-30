@@ -1,0 +1,17 @@
+#!/data/data/com.termux/files/usr/bin/bash
+
+# 
+# Java 8
+# 
+unset LD_PRELOAD
+
+
+
+
+export BASE_DIR="$PREFIX/share"
+export JAVA_HOME="$BASE_DIR/jdk8"
+
+export LD_LIBRARY_PATH="$BASE_DIR/glib"
+
+exec "$JAVA_HOME/bin/jarsigner" "$@"
+
