@@ -56,7 +56,7 @@ Tested on devices ```Android 10```
 
 ### Support Us
 
-<h1 align="center">Hi 👋, I'm PATEL Lx Deepak</h1>
+<h1 align="center">Hi 👋, I'm Deepak Kumar </h1>
 <h3 align="center">Information Technology (IT)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=informationwebsite&label=Profile%20views&color=0e75b6&style=flat" alt="informationwebsite" /> </p>
